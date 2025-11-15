@@ -1,0 +1,14 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,source,tolerance,Price,Voltage/Wattage,LCSC Part #,Rating,Digikey Part #,Sim.Device,Sim.Pins
+C1,1,22n,C_0402_1005Metric,,,,smt,"capacitor, US symbol",https://www.digikey.com/en/products/detail/kemet/C0402C223K5RACTU/2196486,10%,.1,50V X7R,C1532,50V X7R,399-C0402C223K5RACTUCT-ND,,
+D1,1,1N4148WTH,D_SOD-523,,,,smt,"75V 0.15A Fast switching Diode, SOD-523",https://www.digikey.com/en/products/detail/taiwan-semiconductor-corporation/1N4148WTH-RSG/26257460,,,,C917006,,1801-1N4148WTHRSGCT-ND,D,1=K 2=A
+J3,1,+Vout,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,,,C2932699,,2057-PH1-01-UA-ND,,
+J4,1,0V,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,,,C2932699,,2057-PH1-01-UA-ND,,
+"J5, J6",2,Support Pin,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,,,C2932699,,2057-PH1-01-UA-ND,,
+"Q1, Q2",2,BC847C,SOT-23,,,,smt,"0.1A Ic, 45V Vce, NPN Transistor, SOT-23",https://www.digikey.com/en/products/detail/onsemi/BC847CLT3G/1476015,,.11,45,C8664,45V,BC847CLT3GOSCT-ND,,
+"R1, R4, R8",3,4.99k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603FR-134K99L/17013367,1%,.1,100mW,C23046,100mW,13-RC0603FR-134K99LCT-ND,,
+R2,1,43k,R_0603_1608Metric,,,Yes,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0743KL/727233,1%,.1,,C23172,,311-43.0KHRCT-ND,,
+R3,1,10k,R_0603_1608Metric,,,Yes,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RT0603FRE0710KL/1075040,1%,.1,,C25804,,YAG2321CT-ND,,
+"R5, R6",2,2.0,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603JR-072RL/5918445,5%,.1,,C22977,,13-RC0603JR-072RLCT-ND,,
+R7,1,5.6k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603FR-075K6L/727275,1%,.1,,C23189,,311-5.60KHRCT-ND,,
+U1,1,SPX2431,SOT-23,,,,smt,"Shunt Regulator, SOT-23",https://www.digikey.com/en/products/detail/texas-instruments/TL431AIDBZR/686856,1%,0.25,,C94430,,296-17329-1-ND,,
+U2,1,SPX2431,SOT-23,,,Yes,smt,"Shunt Regulator, SOT-23",https://www.digikey.com/en/products/detail/texas-instruments/TL431AIDBZR/686856,1%,0.25,,C94430,,296-17329-1-ND,,

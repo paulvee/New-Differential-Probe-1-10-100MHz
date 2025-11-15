@@ -1,0 +1,19 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+133.95,-108.05,0.0,bottom,C1,,,C_0402_1005Metric,22n,smt
+128.962499,-106.7,180.0,bottom,D1,,,D_SOD-523,1N4148WTH,smt
+136.15,-113.65,0.0,bottom,J3,,,PinHeader_1x01_P2.54mm_Vertical,+Vout,tht
+136.15,-103.35,0.0,bottom,J4,,,PinHeader_1x01_P2.54mm_Vertical,0V,tht
+125.85,-113.65,0.0,bottom,J5,,,PinHeader_1x01_P2.54mm_Vertical,Support Pin,tht
+125.85,-103.35,0.0,bottom,J6,,,PinHeader_1x01_P2.54mm_Vertical,Support Pin,tht
+129.45,-103.9,0.0,bottom,Q1,,,SOT-23,BC847C,smt
+132.1,-106.45,-90.0,bottom,Q2,,,SOT-23,BC847C,smt
+132.6,-110.8,0.0,bottom,R1,,,R_0603_1608Metric,4.99k,smt
+129.0,-112.5,180.0,bottom,R2,,,R_0603_1608Metric,43k,smt
+129.025,-114.0,0.0,bottom,R3,,,R_0603_1608Metric,10k,smt
+132.675,-109.3,180.0,bottom,R4,,,R_0603_1608Metric,4.99k,smt
+132.9,-103.75,0.0,bottom,R5,,,R_0603_1608Metric,2.0,smt
+135.325,-106.75,0.0,bottom,R6,,,R_0603_1608Metric,2.0,smt
+136.45,-110.3,90.0,bottom,R7,,,R_0603_1608Metric,5.6k,smt
+134.95,-110.325,-90.0,bottom,R8,,,R_0603_1608Metric,4.99k,smt
+132.45,-113.25,0.0,bottom,U1,,,SOT-23,SPX2431,smt
+129.35,-109.8,-90.0,bottom,U2,,,SOT-23,SPX2431,smt
