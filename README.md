@@ -10,16 +10,16 @@ The files in this project folder contain the schematics, the BOM and the product
 All other information about this project can be found on my Blog here:
 https://www.paulvdiyblogs.net/2025/08/building-new-100mhz-differential-probe.html
 
-The specifications are:
+The specifications for the 100MHz probe are: (the others are on the Blog)
 - Input impedance: 20MegOhm//1.25pF - differential, 10MegOhm//2.5pF for each terminal to GND.
 - Differential Gain = 1/10V/V. Any lower than this and most hobby DSO's cannot resolve a 1V input signal with any clarity.
 - Maximum AC Common Mode Voltage (with 50V differential input) = 350VAC
 - CMRR > 90dB @ DC, ~60dB @ 1MHz.
-- 100MHz: Differential Voltage Range > +/-25V for 240VAC common-mode, +/-25V for 0V common-mode.
-- 10MHz: Differential Voltage Range > +/-80V for 240VAC common-mode, +/-80V for 0V common-mode.
-- 3dB bandwidth >= 100MHZ/10MHz/1MHz (depends on signal amplitude)
+- Differential Voltage Range > +/-25V for 240VAC common-mode, +/-25V for 0V common-mode.
+- 3dB bandwidth >= 100MHZ (depends on signal amplitude)
 - DC offset < 1mV (trimmed)
-- Noise: 2.2mVrms or lower at output, ~200mVpp input referred.
+- Noise: 30mVpp or lower at output.
+- Power supply: 5.25V +/- 0.25V. This can be a USB-C PD supply plus a regulator, see the power options.
 - Cost: ~$50 not including shipping and handling costs. Not including 3D printed enclosure.
 
 Enjoy building one of these, you will be happy that you did!
