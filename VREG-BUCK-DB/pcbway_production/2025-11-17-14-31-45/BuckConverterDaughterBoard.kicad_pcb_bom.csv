@@ -1,0 +1,14 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Source,Tolerance,LCSC Part #,Rating,Digikey Part #
+C1,1,100n,C_0402_1005Metric,,,,smt,Unpolarized capacitor,https://www.digikey.com/en/products/detail/kyocera-avx/KGM05CR71H104KH/6564238,10%,C307331,"50V, X7R",478-KGM05CR71H104KHCT-ND
+"C2, C4",2,22u,C_0805_2012Metric,,,,smt,Unpolarized capacitor,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857,20%,C45783,"25V, X5R",1276-CL21A226MAYNNNECT-ND
+C3,1,TBD,C_0402_1005Metric,,,Yes,smt,Unpolarized capacitor,https://www.digikey.com/en/products/detail/kyocera-avx/KGM05CR71H104KH/6564238?s=N4IgTCBcDaICwHYAcBaA0gcQLIAYCsAwgEoICMAEqTnGuQQCooByAIiALoC%2BQA,10%,C307331,"50V, X7R",478-KGM05CR71H104KHCT-ND
+D1,1,MSS1P3,D_MicroSMP_AK,,,Yes,smt,Schottky diode,https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/MSS1P3L-M3-89A/2071752,,C5125027,,MSS1P3L-M3/89AGICT-ND
+"J1, J5",2,Support Pin,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,C2932699,,2057-PH1-01-UA-ND
+J2,1,+5V3,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,C2932699,,2057-PH1-01-UA-ND
+J3,1,0V,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated",https://www.digikey.nl/nl/products/detail/adam-tech/PH1-01-UA/9830231,,C2932699,,2057-PH1-01-UA-ND
+L1,1,10uH,L_Wuerth_MAPI-2010,,,,smt,"TDK VLS201610HBX-100M-1, 6.8uH 0.7A",https://www.digikey.com/en/products/detail/shenzhen-sunlord-electronics-co-ltd/SPH201610H100MT/14120481?s=N4IgTCBcDaIMoAUASYAMBGAbO1SeoFkAVEAXQF8g,20%,C96784,450mA,3442-SPH201610H100MTCT-ND
+R1,1,56k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0756KL/2827626,1%,C23206,,311-56KHRCT-ND
+R2,1,10k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RT0603FRE0710KL/1075040,1%,C25804,,YAG2321CT-ND
+R3,1,330k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/RC0603FR-10330KL/14008341,1%,C23137,,13-RC0603FR-10330KLCT-ND
+R4,1,75k,R_0603_1608Metric,,,,smt,Resistor,https://www.digikey.com/en/products/detail/yageo/AC0603FR-0775KL/5896284,1%,C23242,,YAG3629CT-ND
+U1,1,NEX40400BDAZ,SOT-23-6,,,,smt,"Switched capacitor boost, Fixed 4.5V output, 150mA, SOT-23-6",https://www.digikey.com/en/products/detail/nexperia-usa-inc/NEX40400BDAZ/25978251,,C370876,,1727-NEX40400BDAZCT-ND

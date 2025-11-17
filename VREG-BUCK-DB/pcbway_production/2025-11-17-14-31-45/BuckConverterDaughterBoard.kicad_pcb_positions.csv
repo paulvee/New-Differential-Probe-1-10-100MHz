@@ -1,0 +1,16 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+120.15,-96.25,180.0,bottom,C1,,,C_0402_1005Metric,100n,smt
+116.95,-91.65,90.0,bottom,C2,,,C_0805_2012Metric,22u,smt
+120.12,-97.2,180.0,bottom,C3,,,C_0402_1005Metric,TBD,smt
+121.750001,-92.35,0.0,bottom,C4,,,C_0805_2012Metric,22u,smt
+118.9,-91.05,90.0,bottom,D1,,,D_MicroSMP_AK,MSS1P3,smt
+123.45,-98.2,90.0,bottom,J1,,,PinHeader_1x01_P2.54mm_Vertical,Support Pin,tht
+113.15,-87.9,180.0,bottom,J2,,,PinHeader_1x01_P2.54mm_Vertical,+5V3,tht
+113.15,-98.2,90.0,bottom,J3,,,PinHeader_1x01_P2.54mm_Vertical,0V,tht
+123.45,-87.9,90.0,bottom,J5,,,PinHeader_1x01_P2.54mm_Vertical,Support Pin,tht
+120.6,-94.55,0.0,bottom,L1,,,L_Wuerth_MAPI-2010,10uH,smt
+119.7625,-98.4,180.0,bottom,R1,,,R_0603_1608Metric,56k,smt
+116.6375,-98.4,180.0,bottom,R2,,,R_0603_1608Metric,10k,smt
+115.18,-91.84,-90.0,bottom,R3,,,R_0603_1608Metric,330k,smt
+115.01,-94.835,-90.0,bottom,R4,,,R_0603_1608Metric,75k,smt
+117.45,-95.4,90.0,bottom,U1,,,SOT-23-6,NEX40400BDAZ,smt
